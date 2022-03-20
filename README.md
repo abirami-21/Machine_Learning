@@ -12,6 +12,11 @@ PYTHON -3.6
 
 Implementing Clustering and Classification algorithms
 
+## Dataset Used
+
+1. Boston Housing
+2. Wine Dataset (load_wine)
+
 ## Topics Covered in ML_CS_1 File
 1. Data Preprocessing
 2. Visualisation
